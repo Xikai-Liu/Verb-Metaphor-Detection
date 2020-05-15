@@ -2,7 +2,7 @@
 
 The code for paper "Combining the Attention Network and Semantic Representation for Chinese Verb Metaphor Identification"
 
-## Run
+## Reproducing Results
 
 the code can be run under py3.5&keras2.24
 

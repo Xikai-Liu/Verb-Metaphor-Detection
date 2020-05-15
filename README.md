@@ -1,6 +1,6 @@
 # **Verb-Metaphor-detection**
 
-The code for paper "Combining the Attention Network and Semantic Representation for Chinese Verb Metaphor Identification"
+Code for "Combining the Attention Network and Semantic Representation for Chinese Verb Metaphor Identification"
 
 ## Reproducing Results
 
